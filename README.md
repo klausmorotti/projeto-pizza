@@ -43,11 +43,8 @@ O site tem no total 1 página, sendo ela
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-<<<<<<< HEAD
 ## 🤝 Colaboradores
 
-=======
->>>>>>> 0728657ca0b5a9373991e4196e5c276557a78681
 <table>
   <tr>
     <td align="center">
@@ -64,8 +61,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 ## 📝 Licença
 
 Este projeto está sob licença. Consulte o arquivo <a href="https://github.com/klausmorotti/projeto-pizza/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
-<<<<<<< HEAD
-=======
+
 
 <a href="#top">Volte para o topo</a>
->>>>>>> 0728657ca0b5a9373991e4196e5c276557a78681
