@@ -1,6 +1,6 @@
 <h1 align="center">E-COMMERCE DE PIZZAS</h1>
 
-<img src="assets/images/video-projeto-gif.gif" alt="Video Projeto">
+<img src="assets/images/projeto-pizza-gif.gif" alt="Video Projeto">
 
 > 🔎 Projeto de E-Commerce para pedido de pizzas a qualquer hora e lugar. <br>
 🗔 Confira a aplicação: https://klausmorotti.github.io/projeto-pizza/ <br>
