@@ -2,7 +2,7 @@
 
 <img src="assets/images/video-projeto-gif.gif" alt="Video Projeto">
 
-> 🔎 Projeto de consulta de previsão do tempo em tempo real de qualquer lugar do mundo. <br>
+> 🔎 Projeto de E-Commerce para pedido de pizzas a qualquer hora e lugar. <br>
 🗔 Confira a aplicação: https://klausmorotti.github.io/projeto-pizza/ <br>
 ## :page_facing_up: Explicação
 O projeto E-Commerce de pizzas foi meu primeiro projeto criado utilizado a linguagem JS com objetivo de colocar meus conhecimentos em prática em relação ao que eu ja tinha aprendido.
@@ -29,7 +29,7 @@ O site tem no total 1 página, sendo ela
 :heavy_check_mark: Adicionar a função de contador de quantidade que incrementa ou decrementa a quantidade de pizzas. <br>
 :heavy_check_mark: Adicionar um evento de clique no botão "Adicionar ao carrinho" para que ao clicado, abrir o carrinho com os itens adicionados. <br>
 :heavy_check_mark: Pegar as informações que quero para poder armazenar no carrinho de compras. Informações: Qual a pizza? Qual o tamanho? Qual a quantidade? <br>
-:heavy_check_mark: Ao adicionar uma pizza repetida, verificar se ela ja foi adicionada naquele tamanho, se sim, apenas incrementar a quantidade, se não, adiciona-la ao carrinho.
+:heavy_check_mark: Ao adicionar uma pizza repetida, verificar se ela ja foi adicionada naquele tamanho, se sim, apenas incrementar a quantidade, se não, adiciona-la ao carrinho. <br>
 :heavy_check_mark: Criar a função que calcula os valores dos itens adicionados ao carrinho automaticamente. <br>
 :heavy_check_mark: Adicionar clique aos itens do carrinho no mobile, (Botões de fechar e incrementar ou decrementar). <br>
 
@@ -43,8 +43,11 @@ O site tem no total 1 página, sendo ela
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
+<<<<<<< HEAD
 ## 🤝 Colaboradores
 
+=======
+>>>>>>> 0728657ca0b5a9373991e4196e5c276557a78681
 <table>
   <tr>
     <td align="center">
@@ -61,3 +64,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 ## 📝 Licença
 
 Este projeto está sob licença. Consulte o arquivo <a href="https://github.com/klausmorotti/projeto-pizza/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
+<<<<<<< HEAD
+=======
+
+<a href="#top">Volte para o topo</a>
+>>>>>>> 0728657ca0b5a9373991e4196e5c276557a78681
