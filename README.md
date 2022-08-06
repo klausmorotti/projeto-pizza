@@ -32,6 +32,8 @@ O site tem no total 1 página, sendo ela
 :heavy_check_mark: Ao adicionar uma pizza repetida, verificar se ela ja foi adicionada naquele tamanho, se sim, apenas incrementar a quantidade, se não, adiciona-la ao carrinho. <br>
 :heavy_check_mark: Criar a função que calcula os valores dos itens adicionados ao carrinho automaticamente. <br>
 :heavy_check_mark: Adicionar clique aos itens do carrinho no mobile, (Botões de fechar e incrementar ou decrementar). <br>
+:heavy_check_mark: Projeto finalizado.
+
 
 ## 🚀 Tecnologias ##
 
@@ -61,6 +63,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 ## 📝 Licença
 
 Este projeto está sob licença. Consulte o arquivo <a href="https://github.com/klausmorotti/projeto-pizza/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
-
 
 <a href="#top">Volte para o topo</a>
